@@ -1,6 +1,9 @@
 layout: sidebar
 style: light
 
+include:
+  - .well-known
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
